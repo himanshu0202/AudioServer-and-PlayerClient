@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/himanshuanand/AndroidStudioProjects/Academic Projects/AudioServer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b472555fd46a3ae9173929c86319221b42383d8a">
+        <dex dex="/Users/himanshuanand/AndroidStudioProjects/Academic Projects/AudioServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_22d54117adf42af2874b82f156c036fc605b1cca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/himanshuanand/AndroidStudioProjects/Academic Projects/AudioServer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b3a33c54fc2e9b7495af5ea43833b41f71c5ccd8">
+        <dex dex="/Users/himanshuanand/AndroidStudioProjects/Academic Projects/AudioServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_863819ce50412b3dffedf2360cc7fa3e7f8bed31/classes.dex" />
+    </item>
+
+</items>

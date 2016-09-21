@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PlayerClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview">Clip1</string>
+    <string name="your_id_string">Your ID</string>
+    <string name="get_new_id_string">Get New ID</string>
+    <string name="title_activity_record">recordActivity</string>
+    <string name="clipNames">Clip1\nClip2\nClip3\nClip4\nClip5</string>
+    <string name="playButtonText">Play</string>
+    <string name="activityRecButtonText">HISTORY</string>
+    <string name="stopButtonText">Stop</string>
+    <string name="clipTextLabel">Enter Clip Number</string>
+    <string name="resumeButtonText">Resume</string>
+    <string name="pauseButtonText">Pause</string>
+    <string name="clip1">CLIP 1</string>
+    <string name="clip2">CLIP 2</string>
+    <string name="clip3">CLIP 3</string>
+    <string name="clip4">CLIP 4</string>
+    <string name="clip5">CLIP 5</string>
+</resources>
